@@ -9,7 +9,7 @@ h1.classList.add('text-center')
 document.getElementById('cont').appendChild(h1)
 
 let h3 = document.createElement('h3')
-h3.innerHTML = 'Please Click the below Button to get Random Dogs'
+h3.innerHTML = 'Please Click the below Button to get Random Dogs Image'
 h3.classList.add('text-center')
 document.getElementById('cont').appendChild(h3)
 
